@@ -11,7 +11,10 @@
 	- index.js (could be anything you want really)
 	- config.json (config to store prefix, token etc.)
 	- package.json (this is where your packages go)
-								*/
+	
+	[NOTE] If you are going to be using Heroku put the **node_modules** folder in the .gitignore 
+	Anyone can get your packages from package.json just by doing 'npm i'
+													*/
 								
 // Lets start with `config.json`
 
