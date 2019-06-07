@@ -94,3 +94,5 @@ bot.on("message", async message => {
     // If you require any additional assistance you can join my bot's support server and ask me anything you like! Or even just to chill and talk *shrugs*
     // https://discord.gg/Z5XVSGz
 });
+
+	// To run the bot simply type `node .` in the terminal 
